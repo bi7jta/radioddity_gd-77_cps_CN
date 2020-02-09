@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GD77_CPS", "GD77_CPS.csproj", "{DEF0E499-718F-45BE-9052-2D41D049A434}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "GD77CPS.vshost", "bin\Debug_3.1.x\GD77CPS.vshost.exe", "{0BD9CAC5-D3F6-4AF0-B070-2424A155384A}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\radioddity_gd-77_cps-master\bin\Debug_3.1.x\GD77CPS.vshost.exe
+		RemoteMachine = VR2VYE-PC
+		StartingDirectory = D:\radioddity_gd-77_cps-master\bin\Debug_3.1.x
+		Environment = 默认值
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		3.1.x_Debug|x86 = 3.1.x_Debug|x86
+		3.1.x_Release|x86 = 3.1.x_Release|x86
+		Debug|x86 = Debug|x86
+		OpenGD77_Debug|x86 = OpenGD77_Debug|x86
+		OpenGD77_Release|x86 = OpenGD77_Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.3.1.x_Debug|x86.ActiveCfg = Debug_3.1.x|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.3.1.x_Debug|x86.Build.0 = Debug_3.1.x|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.3.1.x_Release|x86.ActiveCfg = Release_3.1.x|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.3.1.x_Release|x86.Build.0 = Release_3.1.x|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.Debug|x86.ActiveCfg = Debug|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.Debug|x86.Build.0 = Debug|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.OpenGD77_Debug|x86.ActiveCfg = Debug|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.OpenGD77_Debug|x86.Build.0 = Debug|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.OpenGD77_Release|x86.ActiveCfg = Release|x86
+		{DEF0E499-718F-45BE-9052-2D41D049A434}.OpenGD77_Release|x86.Build.0 = Release|x86
+		{0BD9CAC5-D3F6-4AF0-B070-2424A155384A}.3.1.x_Debug|x86.ActiveCfg = Debug|x86
+		{0BD9CAC5-D3F6-4AF0-B070-2424A155384A}.3.1.x_Release|x86.ActiveCfg = Debug|x86
+		{0BD9CAC5-D3F6-4AF0-B070-2424A155384A}.Debug|x86.ActiveCfg = Debug|x86
+		{0BD9CAC5-D3F6-4AF0-B070-2424A155384A}.OpenGD77_Debug|x86.ActiveCfg = Debug|x86
+		{0BD9CAC5-D3F6-4AF0-B070-2424A155384A}.OpenGD77_Release|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
