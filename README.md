@@ -1,3 +1,6 @@
+# Add Chinese language support by VR2VYE
+* 添加中文版支持
+
 # radioddity_gd-77_cps2.0.5
 Work to enhance and improve the Radioddity GD-77 CPS, based on reverse engineering the official exe
 
